@@ -1,5 +1,5 @@
 // API Key
-var apiKey = '&appid=64711a3a34371e60842ce5f4745dc7bf';
+var apiKey = '&appid=63b295727ccb577d83ec41f10df2d9b8';
 
 // DOM Elements
 var inputEl = document.querySelector('.input');
